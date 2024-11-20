@@ -1,6 +1,6 @@
 # Port Scanner with Python
 
-#### Description
+### Description
 
 Created a port scanner using Python.
 
@@ -49,4 +49,4 @@ If the IP address passed into the get_open_ports function is invalid, the functi
 
 #### User stories/tests to pass:
 
-// coming soon
+The unit tests for this project are in test_module.py. The tests from test_module.py are imported to main.py for convenience.
